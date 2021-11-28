@@ -6,9 +6,7 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
-datasets
-/datasets
-/datasets/*
+/datasets/*.csv
 
 
 .ipynb_checkpoints
